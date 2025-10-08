@@ -1,4 +1,17 @@
 # <ins>Gene Barker</ins>
+British Computer Science Student
+
+## Programming Languages
+Python
+Java
+
+## Education
+Currently Studying Computer Science with Intergrated Masters at Keele University
+
+### A Levels
+Computer Science
+Physics
+Maths
 
 <!--
 **Gene-Barker/Gene-Barker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
