@@ -13,6 +13,8 @@ Computer Science
 Physics
 Maths
 
+## Contact
+genebarker07@yahoo.com
 <!--
 **Gene-Barker/Gene-Barker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
