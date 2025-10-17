@@ -6,7 +6,7 @@ British Computer Science Student
 - Java
 
 ## Education
-- Currently Studying Computer Science with Intergrated Masters at Keele University
+- Currently in My First Year of Studying Computer Science with Intergrated Masters at Keele University
 
 ### A Levels
 - Computer Science
