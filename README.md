@@ -2,11 +2,11 @@
 British Computer Science Student
 
 ## Programming Languages
-Python
-Java
+- Python
+- Java
 
 ## Education
-Currently Studying Computer Science with Intergrated Masters at Keele University
+- Currently Studying Computer Science with Intergrated Masters at Keele University
 
 ### A Levels
 - Computer Science
