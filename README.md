@@ -9,9 +9,9 @@ Java
 Currently Studying Computer Science with Intergrated Masters at Keele University
 
 ### A Levels
-Computer Science
-Physics
-Maths
+- Computer Science
+- Physics
+- Maths
 
 ## Contact
 genebarker07@yahoo.com
