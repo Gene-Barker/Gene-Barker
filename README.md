@@ -4,6 +4,8 @@ British Computer Science Student
 ## Programming Languages
 - Python
 - Java
+- C
+- Bash
 
 ## Education
 - Currently in My First Year of Studying Computer Science with Intergrated Masters at Keele University
