@@ -8,7 +8,7 @@ British Computer Science Student
 - Bash
 
 ## Education
-- Currently in My First Year of Studying Computer Science with Intergrated Masters at Keele University
+- Currently in My Second Year of Studying Computer Science with Intergrated Masters at Keele University
 
 ### A Levels
 - Computer Science
